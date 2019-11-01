@@ -32,3 +32,5 @@ Polynomial文件夹是源程序文件夹
 		
 		faction.h
 
+
+默认登陆密码：654321
